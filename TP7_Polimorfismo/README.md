@@ -1,7 +1,7 @@
 # Trabajo Práctico 7 - Herencia y Polimorfismo en Java
 **Alumno:** Lara Malena Pérez Hernández  
 **Legajo:** 101063  
-**Comisión:** 19  
+**Comisión:** 18 
 
 
 
